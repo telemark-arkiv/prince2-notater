@@ -17,3 +17,14 @@ Notater fra Prince2-samlingen
 - Manage by exception
 - Focus on products
 - Tailor Prince2
+
+## 7 themes
+- Business case
+- Quality
+- Organization
+- Risk
+- Change
+- Plans
+- Progress
+
+
