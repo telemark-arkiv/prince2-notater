@@ -27,4 +27,18 @@ Notater fra Prince2-samlingen
 - Plans
 - Progress
 
+## 7 processes
+- Starting up
+- Initiating a project
+- Managing stage boundary
+- Controlling a stage
+- Managing product delivery
+- Directing a project
+- Closing a project
 
+## Levels
+Directing
+*******************
+Managing
+*******************
+Delivery
