@@ -41,4 +41,4 @@ Directing
 *******************
 Managing
 *******************
-Delivery
+Delivering
